@@ -1,0 +1,15 @@
+Samouraï War :
+But du jeu:
+Avoir un personnage, se déplaçant de gauche à droite, se prennant des vagues de monstres, et devant survivre également
+à des tombées de comètes. Sans bug, avec points de vie. Au contact de monstre il se prend des dégats, mais il en
+inflige également.
+
+Prochaines tâches à effectuer :
+- Enregistrer les meilleurs scores dans une liste avec le pseudo de celui qui a joué
+- Demander son pseudo au début du jeu
+- Afficher le high score avec celui qui l'a fait
+- Jeu compatible avec manette / joystick
+Idée:
+Un coup "spécial" pour player lorsqu'il a tuer un certains nbre de monstres
+Faire un sorte de demander le pseudo du nouvel arrivé
+Apporter des effets
